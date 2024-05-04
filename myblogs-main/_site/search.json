@@ -1,0 +1,27 @@
+[
+  
+    {
+      "title"    : "Yes, AI is coming",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/myblogs/jekyll/update/2024/04/04/AI-is-coming.html",
+      "date"     : "2024-04-04 13:07:22 -0700"
+    } ,
+  
+    {
+      "title"    : "This is just a test",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/myblogs/jekyll/update/2014/11/01/test.html",
+      "date"     : "2014-11-01 13:07:22 -0700"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/myblogs/jekyll/update/2014/11/01/welcome-to-jekyll.html",
+      "date"     : "2014-11-01 13:07:22 -0700"
+    } 
+  
+]

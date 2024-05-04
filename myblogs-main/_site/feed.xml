@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/myblogs/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/myblogs/" rel="alternate" type="text/html" /><updated>2024-04-06T16:12:16-07:00</updated><id>http://localhost:4000/myblogs/feed.xml</id><title type="html">Newsrista</title><subtitle>Welcome to Newsrista, a vibrant space dedicated to unraveling the wonders of technology and STEM (Science, Technology, Engineering, and Mathematics) in the form of blogs! In a world where innovation and discoveries shape our everyday lives it is essential as humans to know how and why our future may be changed, and it if for the better or worse.</subtitle><entry><title type="html">Yes, AI is coming</title><link href="http://localhost:4000/myblogs/jekyll/update/2024/04/04/AI-is-coming.html" rel="alternate" type="text/html" title="Yes, AI is coming" /><published>2024-04-04T13:07:22-07:00</published><updated>2024-04-04T13:07:22-07:00</updated><id>http://localhost:4000/myblogs/jekyll/update/2024/04/04/AI-is-coming</id><content type="html" xml:base="http://localhost:4000/myblogs/jekyll/update/2024/04/04/AI-is-coming.html"><![CDATA[<p>When you read the heading you immediately think of a negative connotation, “AI will take jobs”, or “AI will destroy humanity” but this post is based on the positives of AI and how us humans can benifit.</p>
+
+<p><img src="/Assets/Images/Healthcare.jpg" alt="AI in Healthcare" /></p>
+
+<h2 id="the-benefits">The Benefits</h2>
+
+<h3 id="ai-in-healthcare">AI in Healthcare</h3>
+
+<p>The healthcare industry is one where AI is having one of its most significant impacts. AI systems are capable of analyzing datasets considerably more effectively than humans, and they can spot trends that help predict outbreaks, identify illnesses early, and customize treatment regimens. AI-driven technologies, for example, are being used to increase the precision of diagnosing diseases like cancer and heart disease, frequently identifying nuances that are missed in conventional analysis. Furthermore, AI models played a critical role in tracking the virus’s progress during the Covid-19 pandemic, identifying hotspots, and accelerating the creation of vaccines at an unprecedented pace.</p>
+
+<h3 id="ai-for-environmental-conservation">AI for Environmental Conservation</h3>
+
+<p>The application of AI to the processing and analysis of massive datasets is equally significant for environmental preservation. AI algorithms track wildlife populations, monitor deforestation, and forecast the effects of climate change on ecosystems through satellite imagery and sensor data. With the use of this technology, conservationists can save endangered animals and their ecosystems with greater accuracy and speed. Furthermore, AI plays a key role in improving the production of renewable energy and optimizing urban energy use, both of which greatly aid in the fight against climate change.</p>
+
+<p><img src="/Assets/Images/Education.png" alt="AI in Education" /></p>
+
+<h3 id="ai-in-education">AI in Education</h3>
+
+<p>Another sector benefiting from AI is education, where customized learning environments are being developed to meet the individual needs of each student. AI-powered platforms are able to provide individualized materials and tasks in real time, responding to the learner’s strengths and weaknesses. By providing students in remote or underserved locations with high-quality, personalized education resources, this method not only improves learning outcomes but also democratizes education.</p>
+
+<h3 id="ai-and-social-equity">AI and Social Equity</h3>
+
+<p>AI is also being used to provide more impartial decision-making in fields including recruiting, financing, and law enforcement, which is helping alleviate societal injustices. AI can contribute to the creation of a more just society by intentionally creating algorithms that combat historical biases. AI solutions that empower individuals with disabilities by enhancing their access to opportunities, information, and environments are the goals of initiatives like AI for Good’s “AI for Accessibility” project.</p>
+
+<h2 id="ethical-considerations">Ethical Considerations</h2>
+
+<p>The application of AI for social benefit is not without challenges, mostly related to ethics and bias, despite its potential. For AI algorithms to have the most positive impact without exacerbating existing inequalities, it is essential that they are fair, transparent, and responsible. This calls for cooperation among engineers, legislators, and civil society organizations in the form of standards and guidelines for the development and application of ethical AI.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Artificial intelligence offers a promising path forward for addressing social challenges, from healthcare and environmental conservation to education and social equity. By harnessing AI for social good, we can unlock unprecedented opportunities to create a more sustainable, equitable, and prosperous world for future generations. However, how we use AI is up to us, and if AI does end up eradicating humanity, it will be no one’s fault but ours.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[When you read the heading you immediately think of a negative connotation, “AI will take jobs”, or “AI will destroy humanity” but this post is based on the positives of AI and how us humans can benifit.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/myblogs/jekyll/update/2014/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2014-11-01T13:07:22-07:00</published><updated>2014-11-01T13:07:22-07:00</updated><id>http://localhost:4000/myblogs/jekyll/update/2014/11/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/myblogs/jekyll/update/2014/11/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve --watch</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1"># =&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://github.com/jekyll/jekyll-help">Jekyll’s dedicated Help repository</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve --watch, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">This is just a test</title><link href="http://localhost:4000/myblogs/jekyll/update/2014/11/01/test.html" rel="alternate" type="text/html" title="This is just a test" /><published>2014-11-01T13:07:22-07:00</published><updated>2014-11-01T13:07:22-07:00</updated><id>http://localhost:4000/myblogs/jekyll/update/2014/11/01/test</id><content type="html" xml:base="http://localhost:4000/myblogs/jekyll/update/2014/11/01/test.html"><![CDATA[<p>Lorem ispums just some test.</p>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve --watch</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="language-plaintext highlighter-rouge">_posts</code> directory that follows the convention <code class="language-plaintext highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1"># =&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="http://jekyllrb.com">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://github.com/jekyll/jekyll-help">Jekyll’s dedicated Help repository</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Lorem ispums just some test.]]></summary></entry></feed>
